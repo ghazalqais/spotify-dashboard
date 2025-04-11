@@ -1,6 +1,6 @@
 # Spotify Music Dashboard
 
-![Spotify Dashboard Screenshot](screenshot.png)
+![Spotify Dashboard Screenshot](Screenshot.png)
 
 ## Overview
 An interactive data visualization dashboard for exploring Spotify music data, built with R Shiny. This application allows users to analyze relationships between songs' audio features (like danceability, energy, and tempo) and their popularity.
